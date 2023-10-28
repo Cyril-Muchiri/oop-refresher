@@ -1,4 +1,4 @@
-# On this branch edit the readme
- - This branch to contain merges of other feature branches
- - once feature branches are done merging with the main branch will happen
+# This repository demonstrates OOP concepts in JAVA and best PRACTICE
+ - Using java programming best practices ie
+ ``` SOLID & KISS```
  
