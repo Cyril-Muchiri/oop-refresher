@@ -5,7 +5,7 @@ public class Lorry extends Vehicle implements ICE {
     private int cylinders;
 
     // ! Must create a lorry constructor to reference super constructor Vehicle
-    public Lorry(String name, int cylinders, String model, String color, String type) {
+    public Lorry(String name, String model, String color, String type,int cylinders) {
         super(name, model, color, type);
         this.cylinders = cylinders;
 
